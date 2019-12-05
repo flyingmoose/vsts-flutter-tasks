@@ -2,13 +2,22 @@
 
 [Flutter](http://flutter.io) build task for [Azure DevOps](https://azure.microsoft.com/fr-fr/services/devops/).
 
+# Note
+This is a personal fork from @aloisdeniel's project [here](https://github.com/aloisdeniel/vsts-flutter-tasks) that does not seem to be getting any updates.
+Do not expect this to recieve many updates, but I will try to see what I can do with accepting pull requests and fixing bugs as I can until aloisdeniel can once again take over.
+
+Merged in the support for web builds from willbuildapps
+Merged in the fix for linux servers from nel-sam
+Fixed several other install and build task issues I found.
+I HAVE NOT TOUCHED TESTING, I would be surprised if it worked.
+
 ## Installation
 
-Installation can be done using [Visual Studio MarketPlace](https://marketplace.visualstudio.com/items?itemName=aloisdeniel.flutter).
+Installation can be done using [Visual Studio MarketPlace](https://marketplace.visualstudio.com/items?itemName=flyingmoose.flutter).
 
 ## Source Code
 
-Source code can be found on [Github](https://github.com/aloisdeniel/vsts-flutter-tasks).
+Source code can be found on [Github](https://github.com/flyingmoose/vsts-flutter-tasks).
 
 ## Usage
 
@@ -57,4 +66,4 @@ Launch tests and publish a report as build test results.
 
 ## License
 
-[MIT](https://raw.githubusercontent.com/aloisdeniel/vsts-flutter-tasks/master/LICENSE)
+[MIT](https://raw.githubusercontent.com/flyingmoose/vsts-flutter-tasks/master/LICENSE)

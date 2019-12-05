@@ -1,18 +1,18 @@
 {
     "manifestVersion": 1,
-    "id": "flutter",
-    "version": "0.2.21",
+    "id": "cassandrakinder-flutter",
+    "version": "0.3.25",
     "name": "Flutter",
     "description": "Flutter extension for Azure DevOps",
-    "publisher": "aloisdeniel",
-    "public": true,
+    "publisher": "CassandraKinder",
+    "public": false,
     "targets": [
         {
             "id": "Microsoft.VisualStudio.Services"
         }
     ],
     "categories": [
-        "Pipelines"
+        "Azure Pipelines"
     ],
     "icons": {
         "default": "icon.png"
@@ -28,18 +28,19 @@
     },
     "links": {
         "support": {
-            "uri": "https://github.com/aloisdeniel/vsts-flutter-tasks/issues"
+            "uri": "https://github.com/flyingmoose/vsts-flutter-tasks/issues"
         }
     },
     "repository": {
         "type": "git",
-        "uri": "https://github.com/aloisdeniel/vsts-flutter-tasks"
+        "uri": "https://github.com/flyingmoose/vsts-flutter-tasks"
     },
     "tags": [
         "flutter",
         "mobile",
         "ios",
-        "android"
+        "android",
+        "web"
     ],
     "files": [
         {

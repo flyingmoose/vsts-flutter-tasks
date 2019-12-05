@@ -5,11 +5,11 @@
     "description": "Executes all tests for a Flutter project.",
     "helpMarkdown": "For more information, take a look at the Flutter [documentation](https://flutter.io)",
     "category": "Test",
-    "author": "Aloïs Deniel",
+    "author": "Cassandra Kinder",
     "version": {
         "Major": 0,
-        "Minor": 2,
-        "Patch": 16
+        "Minor": 3,
+        "Patch": 6
     },
     "instanceNameFormat": "Flutter Test",
     "inputs": [

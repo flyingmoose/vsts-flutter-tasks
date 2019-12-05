@@ -8,11 +8,11 @@
     "visibility": [
         "Build"
     ],
-    "author": "Aloïs Deniel",
+    "author": "Cassandra Kinder",
     "version": {
         "Major": 0,
-        "Minor": 2,
-        "Patch": 21
+        "Minor": 3,
+        "Patch": 25
     },
     "groups": [],
     "instanceNameFormat": "Flutter Build $(target)",
