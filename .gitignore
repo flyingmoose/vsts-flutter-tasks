@@ -82,3 +82,6 @@ typings/
 temp
 
 *.vsix
+tasks/install/index.js
+tasks/build/index.js
+tasks/test/index.js
